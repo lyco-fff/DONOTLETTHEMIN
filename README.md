@@ -13,7 +13,10 @@ Coded in python(obviously).
 **LINK:**
 
 >> https://drive.google.com/file/d/1EpetdVkv7mhEuebH84u5hedh4hUo2lrS/view?usp=sharing <<
->> == UPDATED
+>>
+>>  == UPDATED
+
 
 >> https://drive.google.com/file/d/1zhaT1i1DXbe6E9icNQeUg1S1MZAe7oxk/view?usp=sharing <<
->> == OLD VERSION (pretty broken, not very playable at all.)
+>>
+>>  == OLD VERSION (pretty broken, not very playable at all.)
